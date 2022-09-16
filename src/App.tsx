@@ -108,6 +108,6 @@ function App() {
     </Wrapper>
   </div>
   );
-}
+} 
 
 export default App;
